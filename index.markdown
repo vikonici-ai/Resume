@@ -6,6 +6,8 @@
 
 nikoletta@gmail.com
 
+# Nikoletta Dyugov
+
 I’m a Graphic Design student focused on creating engaging **posters**, **advertisements**, and **social media content**. I enjoy developing visual concepts that combine strong typography, colour, and composition.
 
 ## Skills
@@ -33,4 +35,8 @@ I’m a Graphic Design student focused on creating engaging **posters**, **adver
 - *Social Media* Marketing Certificate
 - *Digital Marketing* Certificate
 
+## References
+1. Emily Carter - emilycarter@gmail,com
+2. Daniel Brooks - daniel.brooks@gmail.com
+3. Sophie Bennett - sophie.bb@gmail.com
 
