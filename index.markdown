@@ -4,7 +4,7 @@
 
 (555) 555-0199
 
-nikoletta@gmail.com
+nikoletta@gmail.com 
 
 # Nikoletta Dyugov 
 
