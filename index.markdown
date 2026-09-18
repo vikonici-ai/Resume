@@ -5,3 +5,12 @@
 nikoletta@gmail.com
 
 I’m a Graphic Design student focused on creating engaging posters, advertisements, and social media content. I enjoy developing visual concepts that combine strong typography, colour, and composition.
+
+## Skills
+
+- Strong communication skills
+- Quick learner
+- Reliable
+- Creative
+- Responsible
+- Strong organizational skills
