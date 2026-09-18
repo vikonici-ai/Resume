@@ -10,7 +10,7 @@ nikoletta@gmail.com
 
 I’m a Graphic Design student focused on creating engaging **posters**, **advertisements**, and **social media content**. I enjoy developing visual concepts that combine strong typography, colour, and composition.
 
-![imageofagirl](/college/sem3/web-tech/1st-ex/photo.png "photo"  
+![imageofagirl](/college/sem3/web-tech/1st-ex/photo.png "photo" 
 
 ## Skills
 
