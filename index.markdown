@@ -1,7 +1,7 @@
 # Resume 
 
 47 W 13th St, New York, NY 10011, USA
-
+ 
 (555) 555-0199
 
 nikoletta@gmail.com 
