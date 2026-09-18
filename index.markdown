@@ -31,7 +31,8 @@ I’m a Graphic Design student focused on creating engaging **posters**, **adver
 - Northside Creative Co. 2025-current
 
 ## Links
-My portfolio link is [niki's portfolio](https://niki'sportfolio.com).
+- My portfolio link is [niki's portfolio](https://niki'sportfolio.com).
+- My Instagram profile is [nikoletta_design](https://nnikoletta_design.com).
 
 
 ## Certifications
