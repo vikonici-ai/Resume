@@ -14,3 +14,11 @@ I’m a Graphic Design student focused on creating engaging posters, advertiseme
 - Creative
 - Responsible
 - Strong organizational skills
+
+
+### Education
+
+- Lincoln High School 2015-2019
+- University of Toronto 2020-2025
+
+
