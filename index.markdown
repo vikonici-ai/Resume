@@ -30,13 +30,17 @@ I’m a Graphic Design student focused on creating engaging **posters**, **adver
 - Brightline Creative Studio 2023-2025
 - Northside Creative Co. 2025-current
 
+## Links
+My portfolio link is [niki's portfolio](https://niki'sportfolio.com).
+
+
 ## Certifications
 - Adobe Certified Professional – *Illustrator*
 - *Social Media* Marketing Certificate
 - *Digital Marketing* Certificate
 
 ## References
-1. Emily Carter - emilycarter@gmail,com
+1. Emily Carter - emilycarter@gmail.com
 2. Daniel Brooks - daniel.brooks@gmail.com
 3. Sophie Bennett - sophie.bb@gmail.com
 
