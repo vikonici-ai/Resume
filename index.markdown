@@ -4,7 +4,7 @@
 (555) 555-0199
 nikoletta@gmail.com
 
-I’m a Graphic Design student focused on creating engaging posters, advertisements, and social media content. I enjoy developing visual concepts that combine strong typography, colour, and composition.
+I’m a Graphic Design student focused on creating engaging **posters**, **advertisements**, and **social media content**. I enjoy developing visual concepts that combine strong typography, colour, and composition.
 
 ## Skills
 
@@ -20,5 +20,12 @@ I’m a Graphic Design student focused on creating engaging posters, advertiseme
 
 - Lincoln High School 2015-2019
 - University of Toronto 2020-2025
+
+
+#### Work Experience
+- Brightline Creative Studio 2023-2025
+- Northside Creative Co. 2025-current
+
+##### Certifications
 
 
