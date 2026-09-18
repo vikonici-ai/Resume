@@ -16,16 +16,19 @@ I’m a Graphic Design student focused on creating engaging **posters**, **adver
 - Strong organizational skills
 
 
-### Education
+## Education
 
 - Lincoln High School 2015-2019
 - University of Toronto 2020-2025
 
 
-#### Work Experience
+## Work Experience
 - Brightline Creative Studio 2023-2025
 - Northside Creative Co. 2025-current
 
-##### Certifications
+## Certifications
+- Adobe Certified Professional – *Illustrator*
+- *Social Media* Marketing Certificate
+- *Digital Marketing* Certificate
 
 
